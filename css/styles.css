@@ -99,7 +99,7 @@
 }
 
 body {
-  background-color: blue;
+  background-color: var(--ucla-blue);
   color: var(--black-80);
   font-family: var(--font-family);
   font-size: var(--font-size);
@@ -109,6 +109,11 @@ body {
   min-height: 100vh;
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
+}
+
+main {
+  background-color: white;
+  padding: 3em;
 }
 
 article > * + * {
