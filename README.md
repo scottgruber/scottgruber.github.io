@@ -1,2 +1,2 @@
 # scottgruber.github.io
-My test public website
+My public website for demo purpose
